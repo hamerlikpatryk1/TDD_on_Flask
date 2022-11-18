@@ -1,4 +1,5 @@
-1. Odpalić Hello World we Flasku
-2. Napisać DB
+1. Odpalić Hello World we Flasku------------
+2. Napisać skrypt odpalający aplikację--------
+3. Napisać DB
     - ID, Imię, Nazwisko, ilość FC
     - ID, nagroda, kwota nagrody

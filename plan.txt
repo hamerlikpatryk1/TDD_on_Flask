@@ -1,0 +1,4 @@
+1. Odpalić Hello World we Flasku
+2. Napisać DB
+    - ID, Imię, Nazwisko, ilość FC
+    - ID, nagroda, kwota nagrody

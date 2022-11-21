@@ -1,8 +1,12 @@
 1. Odpalić Hello World we Flasku------------
     - Ma wyświetlać hello world na stronie "hello"
 2. Napisać skrypt odpalający aplikację--------
-    - Aplikacja ma się odpalić na Mozilli
+    - Aplikacja ma się odpalić na Mozilli------------
 3. Napisać skrypt łączący aplikację z DB
+4. Zrobić testy 
+    - Do appki
+    - Do połączenia z DB
+    - Do DB
 4. Napisać DB
     - ID, Imię, Nazwisko, ilość FC
     - ID, nagroda, kwota nagrody
